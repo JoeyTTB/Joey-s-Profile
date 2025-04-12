@@ -15,9 +15,11 @@
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-3.1.5-6DB33F?logo=spring)](https://spring.io)
 [![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 
+[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,py,linux,git,redis,mysql,postman,bash,powershell,kafka,rabbitmq,stackoverflow,visualstudio,c,vscode,pycharm,anaconda,docker,vim&theme=dark&perline=7)](https://skillicons.dev)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyTTB&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoeyTTB&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoeyTTB&show_icons=true&theme=gruvbox&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 精选项目墙
 | 项目名称 | 技术栈 | 简介 | 
