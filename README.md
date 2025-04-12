@@ -24,8 +24,8 @@
 ### 🚀 精选项目墙
 | 项目名称 | 技术栈 | 简介 | 
 |---------|--------|------|
-| [交通标志识别系统-后端](https://github.com/JoeyTTB/YOLOV8-TSDRS-backend) | Java17/MySQL/Redis/MyBatis/Spring Security/Aliyun OSS | 交通标志检测后端平台 | 
-| [交通标志识别系统-算法服务](https://github.com/JoeyTTB/YOLOV8-TSDRS-flask) | Python3/YOLOv8-framwork/socketio/ffmpeg/Pyside6/Aliyun OSS | 基于YOLOv8模型二次开发的图片、视频流数据交通标志检测 |
+| [交通标志识别系统-后端](https://github.com/JoeyTTB/YOLOV8-TSDRS-backend) | Spring Boot3/MySQL/Redis/MyBatis/Spring Security/Aliyun OSS | 交通标志检测后端平台 | 
+| [交通标志识别系统-算法服务](https://github.com/JoeyTTB/YOLOV8-TSDRS-flask) | Python3/YOLOv8-framework/socketio/ffmpeg/Pyside6/Aliyun OSS | 基于YOLOv8模型二次开发的图片、视频流数据交通标志检测 |
 | 新项目开发中... | / | / |
 
 ### 🤝 技术交流
