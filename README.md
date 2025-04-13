@@ -15,7 +15,7 @@
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-3.1.5-6DB33F?logo=spring)](https://spring.io)
 [![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,py,linux,git,redis,mysql,postman,bash,powershell,kafka,rabbitmq,stackoverflow,visualstudio,c,vscode,pycharm,anaconda,docker,vim&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,py,linux,git,redis,mysql,postman,bash,powershell,elasticsearch,kafka,rabbitmq,stackoverflow,c,vscode,pycharm,anaconda,docker,vim&theme=dark&perline=7)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyTTB&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
