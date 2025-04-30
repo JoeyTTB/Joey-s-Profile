@@ -28,6 +28,7 @@
 | [交通标志识别系统-算法服务](https://github.com/JoeyTTB/YOLOV8-TSDRS-flask) | Python3/YOLOv8-framework/socketio/ffmpeg/Pyside6/Aliyun OSS | 基于YOLOv8模型二次开发的图片、视频流数据交通标志检测 |
 | [交通标志识别系统-前端](https://github.com/JoeyTTB/YOLOV8-TSDRS-frontend) | HTML/JavaScript/CSS/WebSocket/AJAX | 交通标志检测前端页面 |
 | [易优鲜线上商城界面](https://github.com/JoeyTTB/EasyFreshGoods-OnlineShoppingMall) | HTML/JavaScript/CSS | 易优鲜线上商城前端页面 |
+| 新项目开发中... | \ | \ |
 
 ### 🤝 技术交流
 <details>
